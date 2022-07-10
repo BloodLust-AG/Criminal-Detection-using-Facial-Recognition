@@ -15,6 +15,8 @@ Architecture followed:
 
 ![image](https://user-images.githubusercontent.com/109036254/178157517-dea474e1-82f2-4499-8e6d-bc48d4ac34ec.png)
 
+This Flow showcases the qualities of using Face Mesh, as the algorithm can generate meshes extremly fast for n faces simultaneously. There is ne need to store the mesh and the blacklist only need images to start working. The light weight SVM can perform N * M Mesh Template Matching very fast.
+
 Example of the Face Mesh extracted:
 
 ![image](https://user-images.githubusercontent.com/109036254/178156885-aa22e461-d01a-4868-853c-8c696e280796.png)
